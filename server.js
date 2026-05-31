@@ -6,7 +6,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 const MONIME_ACCESS_TOKEN =
-  "mon_zsiGQwXHvfPbvGKyOeuPG0ux0ojFEZMKdJzelh1i9DRFPKxEv4lGvHV0CHwivfzX";
+  "mon_Kt9zboHu6JG8gdhEWOe2TtzeD4IDF1UPSr20mwH6jp6fejepVjSCpdQzONhQnV6B";
 const MONIME_SPACE_ID = "spc-k6RSEjcc72gsqoTy82qYERpEaZH";
 const MONIME_API_BASE = "https://api.monime.io";
 const MONIME_VERSION = "caph.2025-08-23";
